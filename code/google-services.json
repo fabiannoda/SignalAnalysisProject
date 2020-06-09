@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "710787067853",
+    "firebase_url": "https://interiorpositioning.firebaseio.com",
+    "project_id": "interiorpositioning",
+    "storage_bucket": "interiorpositioning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710787067853:android:02c464cc7c6628a76e5e84",
+        "android_client_info": {
+          "package_name": "com.example.interiorpositioning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710787067853-ai0ne6a2jhureq94n26clafnj7ooqj9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw_xPcHaLXP_8UnXL14N3Lne4bsVky_nA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710787067853-ai0ne6a2jhureq94n26clafnj7ooqj9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
